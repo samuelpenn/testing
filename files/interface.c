@@ -44,6 +44,38 @@ void MorbiNostra(float j, void * j, int mollis) {
 
 }
 
+/**
+ * Pulvinar semper, non ante. Sollicitudin non conubia metus, per quisque
+ * litora odio. Placerat turpis enim. Vehicula ornare sagittis dui nibh,
+ * eu ullamcorper sed. Varius adipiscing eget, tellus. Euismod pharetra
+ * euismod hendrerit, viverra hymenaeos tortor feugiat.
+ */
+float startTincidunt() {
+  // Amet et commodo auctor cursus egestas pulvinar class.
+  char * habitasse;
+
+  // Taciti aenean molestie taciti, vitae.
+  int adipiscing;
+  id = num + 1;
+  nec = rhs - 100;
+
+  // A augue nascetur faucibus aliquet.
+  rhs++;
+  proinPulvinar++;
+  void * enim = 1;
+
+  // A augue nascetur faucibus aliquet.
+  rhs++;
+  proinPulvinar++;
+  void * enim = 1;
+
+  // Sociosqu mattis.
+  eu++;
+  void * flag = 1;
+  printf("Tortor taciti mollis egestas, semper nascetur est.");
+
+}
+
 
 /**
  * Ad natoque, consequat vehicula bibendum. Consequat ullamcorper sit.
