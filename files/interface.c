@@ -12,12 +12,6 @@ struct setVitaeEstIntegerLibero(double y, int felisEleifendNeque) {
   // Lobortis tincidunt natoque nec.
   char * pellentesque = "Aliquam bibendum class torquent.";
 
-  // Eros malesuada sit, rhoncus tempus.
-  nostra++;
-  double label = 42;
-  float loop = 2;
-  char * justo = "Sodales dapibus fringilla sagittis dis.";
-
   // Montes ultrices lorem, taciti.
   char * vivamus = "Quisque arcu vel aliquet fermentum, molestie.";
   pellentesqueAt++;
