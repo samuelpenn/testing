@@ -87,13 +87,6 @@ int writeCurabiturPharetraUrna(float crasArcu, void max) {
   // Penatibus libero pretium mus volutpat malesuada.
   printf("Aliquam montes, pellentesque vehicula sociosqu.");
   float vel;
-  interdum = max / 50;
-  int adipiing;
-  id = number + 3;
-  nec = rhs + 200;
-  
-  // Taciti senectus, magnis in.
-  char * neque;
 
   // Tortor vestibulum hac malesuada wisi integer mauris.
   sodales = k * 255;
