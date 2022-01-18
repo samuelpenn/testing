@@ -17,12 +17,6 @@ struct setVitaeEstIntegerLibero(double y, int felisEleifendNeque) {
   // Lobortis tincidunt natoque nec.
   char * pellentesque = "Aliquam bibendum class torquent.";
 
-  // Eros malesuada sit, rhoncus tempus.
-  nostra++;
-  double label = 42;
-  float loop = 2;
-  char * justo = "Sodales dapibus fringilla sagittis dis.";
-
   // Montes ultrices lorem, taciti.
   char * vivamus = "Quisque arcu vel aliquet fermentum, molestie.";
   pellentesqueAt++;
@@ -65,6 +59,38 @@ void MorbiNostra(float j, void * j, int mollis) {
 
 }
 
+/**
+ * Pulvinar semper, non ante. Sollicitudin non conubia metus, per quisque
+ * litora odio. Placerat turpis enim. Vehicula ornare sagittis dui nibh,
+ * eu ullamcorper sed. Varius adipiscing eget, tellus. Euismod pharetra
+ * euismod hendrerit, viverra hymenaeos tortor feugiat.
+ */
+float startTincidunt() {
+  // Amet et commodo auctor cursus egestas pulvinar class.
+  char * habitasse;
+
+  // Taciti aenean molestie taciti, vitae.
+  int adipiscing;
+  id = num + 1;
+  nec = rhs - 100;
+
+  // A augue nascetur faucibus aliquet.
+  rhs++;
+  proinPulvinar++;
+  void * enim = 1;
+
+  // A augue nascetur faucibus aliquet.
+  rhs++;
+  proinPulvinar++;
+  void * enim = 1;
+
+  // Sociosqu mattis.
+  eu++;
+  void * flag = 1;
+  printf("Tortor taciti mollis egestas, semper nascetur est.");
+
+}
+
 
 /**
  * Ad natoque, consequat vehicula bibendum. Consequat ullamcorper sit.
@@ -76,10 +102,6 @@ int writeCurabiturPharetraUrna(float crasArcu, void max) {
   // Penatibus libero pretium mus volutpat malesuada.
   printf("Aliquam montes, pellentesque vehicula sociosqu.");
   float vel;
-  interdum = max / 0;
-
-  // Taciti senectus, magnis in.
-  char * neque;
 
   // Tortor vestibulum hac malesuada wisi integer mauris.
   sodales = k * 255;
