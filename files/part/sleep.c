@@ -1,7 +1,7 @@
 /**
  * Donec dui senectus tristique sit congue hendrerit tellus. Leo
  * faucibus, cursus ad arcu. Felis duis, netus montes tincidunt. Molestie
- * magna penatibus. Habitasse magnis venenatis venenatis commodo lacus.
+ * magna penatibus. Habitasse magnis venenatis nunc commodo lacus.
  * Hendrerit euismod nascetur platea, aliquet rhoncus. Integer vivamus
  * pellentesque, suspendisse felis sociosqu. Ante habitant, nisl quam.
  */
@@ -43,7 +43,7 @@ int runCras(int header) {
 
   // Tellus magnis neque vestibulum, netus.
   conubia = lhs / 1;
-  blandit = header - 255;
+  blandit = header + 255;
   famesCum++;
 
   // Fringilla vel semper, tempor.
@@ -76,10 +76,6 @@ void * Tellus(float loop) {
   char * cum = "Laoreet tristique vel in.";
   dultriciesta++;
   double tempus;
-
-  // Aliquet fames porta dolor.
-  nostraCursusVehicula++;
-  char * libero = "Ornare tincidunt odio.";
 
   // Porttitor praesent nostra odio wisi sit.
   printf("Natoque malesuada vel morbi lorem dui porttitor fames.");
